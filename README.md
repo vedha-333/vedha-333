@@ -78,14 +78,6 @@ A selection of projects from my GitHub profile:
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedha-333&theme=dark&hide_border=true&background=transparent" alt="GitHub contribution streak" width="720">
-</div>
-
----
-
 <div align="center">
 
 **Thanks for visiting my profile.**
