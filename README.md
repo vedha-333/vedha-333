@@ -81,23 +81,7 @@ A selection of projects from my GitHub profile:
 ## GitHub Activity
 
 <div align="center">
-  <div style="display:flex; align-items:center; justify-content:center; gap:18px; padding:18px 26px; background:linear-gradient(180deg, rgba(10,15,22,0.96), rgba(8,12,18,0.96)); border:1px solid rgba(109,197,255,0.5); border-radius:18px; box-shadow:0 10px 28px rgba(0,0,0,0.42), inset 0 0 24px rgba(110,208,255,0.06); max-width:780px;">
-    <div style="min-width:176px; padding:14px 18px; border-right:1px solid rgba(109,197,255,0.28);">
-      <div style="font-size:2.1rem; font-weight:700; color:#edf7ff; line-height:1.08;">819</div>
-      <div style="font-size:0.76rem; color:#dfeaf7; margin-top:8px; letter-spacing:0.05em;">Total Contributions</div>
-      <div style="font-size:0.68rem; color:#9cb2c9; margin-top:6px;">Aug 11, 2024 — Present</div>
-    </div>
-    <div style="min-width:176px; padding:14px 18px; border-right:1px solid rgba(109,197,255,0.28);">
-      <div style="display:flex; align-items:center; justify-content:center; width:66px; height:66px; margin:0 auto 12px; border:2px solid #7fe1ff; border-radius:50%; color:#7fe1ff; font-size:1.7rem; font-weight:700; background:rgba(127,225,255,0.04); box-shadow:0 0 18px rgba(127,225,255,0.18);">25</div>
-      <div style="font-size:0.76rem; color:#dfeaf7;">Longest Streak</div>
-      <div style="font-size:0.68rem; color:#9cb2c9; margin-top:6px;">Aug 11 — Aug 25</div>
-    </div>
-    <div style="min-width:176px; padding:14px 18px;">
-      <div style="display:flex; align-items:center; justify-content:center; width:66px; height:66px; margin:0 auto 12px; border:2px solid #ff9d57; border-radius:50%; color:#ff9d57; font-size:1.7rem; font-weight:700; background:rgba(255,157,87,0.04); box-shadow:0 0 18px rgba(255,157,87,0.16);">2</div>
-      <div style="font-size:0.76rem; color:#dfeaf7;">Current Streak</div>
-      <div style="font-size:0.68rem; color:#9cb2c9; margin-top:6px;">Oct 31 — Nov 1</div>
-    </div>
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedha-333&theme=dark&hide_border=true&background=transparent" alt="GitHub contribution streak" width="720">
 </div>
 
 ---
