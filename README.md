@@ -4,31 +4,42 @@
 
 <div align="center">
 
-# Hi, I'm Vedant Yadav Pandilwad
+# Vedant Yadav Pandilwad
 
-### Computer Science Student | Full-Stack Developer | Problem Solver
+### Computer Science Student • AI & ML Developer • Problem Solver
 
-I build practical web applications, backend APIs, and interactive tools.  
-I enjoy exploring how software works — from data structures and algorithms to computer systems and real-time computer vision.
+I build practical software that solves real problems. My work sits at the intersection of product thinking, backend systems, and modern web development, with a strong focus on building experiences that are useful, scalable, and open to learning.
 
 [![GitHub](https://img.shields.io/badge/GitHub-vedha--333-181717?style=flat&logo=github)](https://github.com/vedha-333)
 [![Location](https://img.shields.io/badge/Location-India-0A66C2?style=flat)](https://github.com/vedha-333)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Projects-5B8DEF?style=flat)](https://github.com/vedha-333?tab=repositories)
 
 </div>
 
 ---
 
-### About Me
+## About Me
 
-- 🎓 Computer Science student focused on software engineering.
-- 💻 Interested in full-stack development, backend engineering, and building useful products.
-- 🧠 Practising Data Structures and Algorithms and strengthening problem-solving skills.
-- 🔍 Exploring computer vision, AI-powered applications, and computer systems.
-- 📚 Learning more about backend architecture, databases, and system design.
+- Computer Science student focused on software engineering, AI, and product development.
+- Interested in full-stack development, backend architecture, and building useful digital products with AI capabilities.
+- Strengthening problem-solving skills through data structures, algorithms, and engineering-focused practice.
+- Exploring computer vision, machine learning workflows, and AI-powered applications.
+- Learning more about model integration, data pipelines, databases, and practical software design.
 
 ---
 
-### Featured Projects
+## Open Source & Building in Public
+
+I enjoy creating projects that are transparent, useful, and easy to explore. My work reflects a strong interest in open-source development, learning by building, and sharing ideas that others can adapt, improve, and use.
+
+- Designing projects with real-world use cases and clean problem statements.
+- Building software that is readable, modular, and easy to extend.
+- Learning in public through working prototypes, documentation, and iterative improvement.
+- Focused on creating tools that solve genuine needs rather than just showing syntax.
+
+---
+
+## Featured Projects
 
 A selection of projects from my GitHub profile:
 
@@ -43,7 +54,7 @@ A selection of projects from my GitHub profile:
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages**
 <p>
@@ -57,32 +68,44 @@ A selection of projects from my GitHub profile:
 
 ---
 
-### What I'm Working On
+## What I'm Working On
 
-- Building and improving full-stack applications and REST APIs.
+- Building and improving full-stack applications and REST APIs with intelligent features.
 - Practising DSA consistently and documenting solutions.
-- Learning backend design, database concepts, and scalable application architecture.
-- Exploring AI, computer vision, and interactive algorithm visualizations.
+- Learning backend design, data systems, and scalable application architecture.
+- Exploring AI, machine learning, computer vision, and intelligent product experiences.
+- Turning experiments into useful open-source projects with strong engineering fundamentals.
 
 ---
 
-### GitHub Activity
+## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vedha-333&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedha-333&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vedha-333&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+  <div style="display:flex; align-items:center; justify-content:center; gap:18px; padding:18px 26px; background:linear-gradient(180deg, rgba(10,15,22,0.96), rgba(8,12,18,0.96)); border:1px solid rgba(109,197,255,0.5); border-radius:18px; box-shadow:0 10px 28px rgba(0,0,0,0.42), inset 0 0 24px rgba(110,208,255,0.06); max-width:780px;">
+    <div style="min-width:176px; padding:14px 18px; border-right:1px solid rgba(109,197,255,0.28);">
+      <div style="font-size:2.1rem; font-weight:700; color:#edf7ff; line-height:1.08;">819</div>
+      <div style="font-size:0.76rem; color:#dfeaf7; margin-top:8px; letter-spacing:0.05em;">Total Contributions</div>
+      <div style="font-size:0.68rem; color:#9cb2c9; margin-top:6px;">Aug 11, 2024 — Present</div>
+    </div>
+    <div style="min-width:176px; padding:14px 18px; border-right:1px solid rgba(109,197,255,0.28);">
+      <div style="display:flex; align-items:center; justify-content:center; width:66px; height:66px; margin:0 auto 12px; border:2px solid #7fe1ff; border-radius:50%; color:#7fe1ff; font-size:1.7rem; font-weight:700; background:rgba(127,225,255,0.04); box-shadow:0 0 18px rgba(127,225,255,0.18);">25</div>
+      <div style="font-size:0.76rem; color:#dfeaf7;">Longest Streak</div>
+      <div style="font-size:0.68rem; color:#9cb2c9; margin-top:6px;">Aug 11 — Aug 25</div>
+    </div>
+    <div style="min-width:176px; padding:14px 18px;">
+      <div style="display:flex; align-items:center; justify-content:center; width:66px; height:66px; margin:0 auto 12px; border:2px solid #ff9d57; border-radius:50%; color:#ff9d57; font-size:1.7rem; font-weight:700; background:rgba(255,157,87,0.04); box-shadow:0 0 18px rgba(255,157,87,0.16);">2</div>
+      <div style="font-size:0.76rem; color:#dfeaf7;">Current Streak</div>
+      <div style="font-size:0.68rem; color:#9cb2c9; margin-top:6px;">Oct 31 — Nov 1</div>
+    </div>
+  </div>
 </div>
 
 ---
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile.**
 
-[Explore my repositories](https://github.com/vedha-333?tab=repositories) · [Connect on GitHub](https://github.com/vedha-333)
+[Explore repositories](https://github.com/vedha-333?tab=repositories) · [Connect on GitHub](https://github.com/vedha-333)
 
 </div>
